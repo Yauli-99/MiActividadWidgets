@@ -52,4 +52,5 @@ La aplicación fue ejecutada correctamente en el emulador/dispositivo móvil ver
 ## Autor
 
 Dario Yauli Patiño Chagua
+
 Curso: Desarrollo de Aplicaciones Móviles
